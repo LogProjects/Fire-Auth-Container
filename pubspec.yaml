@@ -1,7 +1,7 @@
-name: fire_auth_wrapper
+name: fire_auth_container
 description: Firebase auth wrapper for applications.
-version: 0.0.2
-homepage: https://github.com/LogProjects/Fire-Auth-Container
+version: 0.0.3
+homepage: https://github.com/LogProjects/fire_auth_container
 
 environment:
   sdk: '>=3.0.2 <4.0.0'
