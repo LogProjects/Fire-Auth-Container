@@ -1,4 +1,4 @@
-import 'package:fire_auth_wrapper/src/model/result.dart';
+import 'package:fire_auth_container/src/model/result.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 abstract class AuthRepository {

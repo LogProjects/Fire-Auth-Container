@@ -1,4 +1,4 @@
-import 'package:fire_auth_wrapper/src/model/auth_view_state.dart';
+import 'package:fire_auth_container/src/model/auth_view_state.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:mobx/mobx.dart';
 

@@ -1,7 +1,7 @@
-import 'package:fire_auth_wrapper/src/domain/auth_repository.dart';
-import 'package:fire_auth_wrapper/src/model/auth_cubit_observable.dart';
-import 'package:fire_auth_wrapper/src/model/auth_view_state.dart';
-import 'package:fire_auth_wrapper/src/model/result.dart';
+import 'package:fire_auth_container/src/domain/auth_repository.dart';
+import 'package:fire_auth_container/src/model/auth_cubit_observable.dart';
+import 'package:fire_auth_container/src/model/auth_view_state.dart';
+import 'package:fire_auth_container/src/model/result.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:mobx/mobx.dart';

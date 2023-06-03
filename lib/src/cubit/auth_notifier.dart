@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:fire_auth_wrapper/src/model/auth_state.dart';
+import 'package:fire_auth_container/src/model/auth_state.dart';
 import 'package:flutter/material.dart';
 
 class AuthNotifier<T> extends ChangeNotifier {

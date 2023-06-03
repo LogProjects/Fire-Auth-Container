@@ -1,4 +1,4 @@
-library fire_auth_wrapper;
+library fire_auth_container;
 
 export 'src/cubit/auth_cubit.dart';
 export 'src/cubit/auth_notifier.dart';
